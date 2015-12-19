@@ -1,6 +1,6 @@
 {
   "name": "liturgical-year",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns dates of important liturgical holidays",
   "main": "index.js",
   "scripts": {
