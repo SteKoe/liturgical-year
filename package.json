@@ -1,0 +1,15 @@
+{
+  "name": "liturgical-year",
+  "version": "1.0.0",
+  "description": "Returns dates of important liturgical holidays",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Stephan Köninger <mail@stekoe.de>",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-datetime": "^1.4.0"
+  }
+}
